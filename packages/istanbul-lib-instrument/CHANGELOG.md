@@ -3,6 +3,15 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+### [5.0.3](https://www.github.com/istanbuljs/istanbuljs/compare/istanbul-lib-instrument-v5.0.2...istanbul-lib-instrument-v5.0.3) (2021-09-13)
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * dependencies
+    * istanbul-lib-coverage bumped from ^3.0.0 to ^3.0.1
+
 ### [5.0.2](https://www.github.com/istanbuljs/istanbuljs/compare/istanbul-lib-instrument-v5.0.1...istanbul-lib-instrument-v5.0.2) (2021-09-13)
 
 

@@ -97,6 +97,15 @@ provided directly on the `MapStore` instance.
 
 
 
+### [4.0.1](https://www.github.com/istanbuljs/istanbuljs/compare/istanbul-lib-source-maps-v4.0.0...istanbul-lib-source-maps-v4.0.1) (2021-09-13)
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * dependencies
+    * istanbul-lib-coverage bumped from ^3.0.0 to ^3.0.1
+
 ## [3.0.6](https://github.com/istanbuljs/istanbuljs/compare/istanbul-lib-source-maps@3.0.5...istanbul-lib-source-maps@3.0.6) (2019-04-24)
 
 

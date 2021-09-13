@@ -51,6 +51,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
+### [3.0.1](https://www.github.com/istanbuljs/istanbuljs/compare/istanbul-lib-report-v3.0.0...istanbul-lib-report-v3.0.1) (2021-09-13)
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * dependencies
+    * istanbul-lib-coverage bumped from ^3.0.0 to ^3.0.1
+
 ## [2.0.8](https://github.com/istanbuljs/istanbuljs/compare/istanbul-lib-report@2.0.7...istanbul-lib-report@2.0.8) (2019-04-24)
 
 **Note:** Version bump only for package istanbul-lib-report

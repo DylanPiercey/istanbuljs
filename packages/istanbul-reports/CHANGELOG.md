@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+### [3.0.3](https://www.github.com/istanbuljs/istanbuljs/compare/istanbul-reports-v3.0.2...istanbul-reports-v3.0.3) (2021-09-13)
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * dependencies
+    * istanbul-lib-report bumped from ^3.0.0 to ^3.0.1
+  * devDependencies
+    * istanbul-lib-coverage bumped from ^3.0.0 to ^3.0.1
+
 ## [3.0.2](https://github.com/istanbuljs/istanbuljs/compare/istanbul-reports@3.0.1...istanbul-reports@3.0.2) (2020-04-01)
 
 
